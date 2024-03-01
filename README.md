@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a student at KTH, currently studying Computer Science. Below are all my projects in several different languages that i am currently learning.
+
+
 <!--
 **ammaralzeno/ammaralzeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
