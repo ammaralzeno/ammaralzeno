@@ -2,6 +2,7 @@
 
 I am a student at KTH, currently studying Computer Science. Below are all my projects in several different languages that i am currently learning.
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=leolangberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 <!--
 **ammaralzeno/ammaralzeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
