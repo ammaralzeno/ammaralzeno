@@ -6,6 +6,7 @@
 <h4 align="left">Projects:</h4>
 <p align="left">
 
+* [Intellectus AI platform](https://intellectus.app)
 * [KTH Campus navigation app](https://kthnav-nine.vercel.app)
 * [PoS System](https://github.com/leolangberg/IV1350)
 * [PostgreSQL Database](https://github.com/ammaralzeno/Databases-SQL)
