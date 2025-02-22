@@ -6,11 +6,11 @@
 <h4 align="left">Projects:</h4>
 <p align="left">
 
-* [Intellectus - AI for teachers](https://intellectus.app)
+* [Intellectus - AI for teachers (startup)](https://intellectus.app)
 * [KTH Campus navigation app](https://kthnav-nine.vercel.app)
 * [PoS System](https://github.com/leolangberg/IV1350)
 * [PostgreSQL Database](https://github.com/ammaralzeno/Databases-SQL)
-* [Worlds shortest hackathon (finalist)](https://ai-medical-pre-screening.lovable.app)
+* [Worlds shortest hackathon 30 min (finalist)](https://ai-medical-pre-screening.lovable.app)
 
 </p>
 
